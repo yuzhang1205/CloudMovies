@@ -1,0 +1,13 @@
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\CloudMovies.Data.dll.config
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\CloudMovies.Data.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\CloudMovies.Data.pdb
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\CloudMovies.Entities.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\EntityFramework.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\MockData.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\CloudMovies.Entities.pdb
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\EntityFramework.xml
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\obj\Debug\CloudMovies.Data.csprojResolveAssemblyReference.cache
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\obj\Debug\CloudMovies.Data.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Data\obj\Debug\CloudMovies.Data.pdb

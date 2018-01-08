@@ -1,0 +1,4 @@
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Entities\bin\Debug\CloudMovies.Entities.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Entities\bin\Debug\CloudMovies.Entities.pdb
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Entities\obj\Debug\CloudMovies.Entities.dll
+C:\zyu\vsworkspace\CloudMovies\CloudMovies.Entities\obj\Debug\CloudMovies.Entities.pdb
